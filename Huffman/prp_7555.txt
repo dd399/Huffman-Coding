@@ -1,0 +1,9 @@
+/* Dhwanil Desai 7555 CS610 Huffman algo
+
+HANDOUT 2 ADHERED; henc7555 and hdec7555 has no bugs.
+
+compile both the files first by using javac *.java
+
+# Usage
+java henc7555 filename
+java hdec7555 filename.huf
